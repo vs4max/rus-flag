@@ -1,1 +1,1 @@
-# rus-flag
+# Rus and Laos flags
